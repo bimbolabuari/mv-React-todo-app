@@ -16,7 +16,7 @@
 - Clone the project
 
 ```bash
-git clone https://github.com/bimbolabuari/mv-math-magician.git
+git clone https://github.com/bimbolabuari/mv-React-todo-app.git
 
 ```
 
